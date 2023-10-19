@@ -4,5 +4,5 @@
 - 📚 Currently  learning German [Level B1]
 - ☕️ Open  for  collaborations [Beginner/Intermediate]
 - 📫 E-Mail ->  emin200411@gmail.com
-- 💻 HTML, CSS, JavaScript, C, C++, Python
+- 💻 C, C++, Python, HTML, CSS, JavaScript
 - 🏷 Designer
