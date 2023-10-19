@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Emin1107
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning programming at cs50
-- 💞️ I’m looking to collaborate on anything really (but I am a beginner soo...)
-- 📫 How to reach me => gmail (emin200411@gmail.com)
-
-<!---
-Emin1107/Emin1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Emin
+- 🎒 Student at Technical Univesity of Graz [TU-Graz]
+- 🖥 Software   Engineer and Management [TU-Graz]
+- 📚 Currently  learning German [Level B1]
+- ☕️ Open  for  collaborations [Beginner/Intermediate]
+- 📫 E-Mail ->  emin200411@gmail.com
+- 💻 HTML, CSS, JavaScript, C, C++, Python
+- 🏷 Designer
