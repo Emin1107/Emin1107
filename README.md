@@ -1,3 +1,3 @@
 ![Header](./github-header-image-emin.png)
-![instagram](./instagram-emin.svg)]
+![instagram](./logo-emin-ig.png)]
 
