@@ -1,8 +1,1 @@
-- 👋 Hi, I’m Emin
-- 🎒 Student at Technical Univesity of Graz [TU-Graz]
-- 🖥 Software   Engineer and Management [TU-Graz]
-- 📚 Currently  learning German [Level B1]
-- ☕️ Open  for  collaborations [Beginner/Intermediate]
-- 📫 E-Mail ->  emin200411@gmail.com
-- 💻 C, C++, Python, HTML, CSS, JavaScript
-- 🏷 Designer
+![Header](./github-header-image-emin.png)
